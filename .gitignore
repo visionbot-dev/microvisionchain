@@ -1,5 +1,9 @@
 *.tar.gz
 
+# local-dev 编译产物(不提交)
+local-dev/mvcd
+local-dev/mvc-cli
+
 *.exe
 *.pdb
 src/mvc
